@@ -22,7 +22,7 @@ SSH 登录你的 Ubuntu 服务器，执行以下命令：
 
 ```bash
 # 下载项目
-git clone https://github.com/你的用户名/loveli-checkin.git
+git clone https://github.com/wenject/loveli-checkin.git
 cd loveli-checkin
 
 # 一键部署
